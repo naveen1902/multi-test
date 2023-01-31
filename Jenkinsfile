@@ -19,9 +19,6 @@ pipeline {
                 echo 'Deploying...'
                 echo"adding"
                 echo"closing"
-                echo"finishing"
-             
-
             }
         }
     }
